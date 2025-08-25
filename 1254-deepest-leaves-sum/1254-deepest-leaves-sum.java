@@ -14,7 +14,6 @@
  * }
  */
 class Solution {
-    public int maxi=0;
     public int deepHeight(TreeNode root){
         if(root==null){
             return 0;

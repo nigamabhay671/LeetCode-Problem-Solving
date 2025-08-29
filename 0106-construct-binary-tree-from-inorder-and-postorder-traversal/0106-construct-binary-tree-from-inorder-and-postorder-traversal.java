@@ -16,7 +16,7 @@
 class Solution {
     int postorderindex;
     public TreeNode buildTree(int[] inorder, int[] postorder) {
-         postorderindex=postorder.length-1;
+        postorderindex=postorder.length-1;
         Map<Integer, Integer> map=new HashMap<>();
         for(int i=0;i<inorder.length;i++){
             map.put(inorder[i], i);
@@ -26,7 +26,7 @@ class Solution {
 
      public TreeNode buildtree(int[] inorder, int[] postorder, int start, int end, Map<Integer, Integer> map){
         if(start>end) return null;
-
+//int postorderindex=postorder.length-1;
         int rootval=postorder[postorderindex--];
         TreeNode node=new TreeNode(rootval);
 

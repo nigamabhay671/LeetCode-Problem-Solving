@@ -39,6 +39,7 @@
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/nigamabhay671/LeetCode-Problem-Solving/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/nigamabhay671/LeetCode-Problem-Solving/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [1930-maximum-number-of-consecutive-values-you-can-make](https://github.com/nigamabhay671/LeetCode-Problem-Solving/tree/master/1930-maximum-number-of-consecutive-values-you-can-make) |
 ## Hash Table
 |  |
 | ------- |
@@ -49,4 +50,12 @@
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/nigamabhay671/LeetCode-Problem-Solving/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/nigamabhay671/LeetCode-Problem-Solving/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+## Greedy
+|  |
+| ------- |
+| [1930-maximum-number-of-consecutive-values-you-can-make](https://github.com/nigamabhay671/LeetCode-Problem-Solving/tree/master/1930-maximum-number-of-consecutive-values-you-can-make) |
+## Sorting
+|  |
+| ------- |
+| [1930-maximum-number-of-consecutive-values-you-can-make](https://github.com/nigamabhay671/LeetCode-Problem-Solving/tree/master/1930-maximum-number-of-consecutive-values-you-can-make) |
 <!---LeetCode Topics End-->

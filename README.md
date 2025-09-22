@@ -12,6 +12,7 @@
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/nigamabhay671/LeetCode-Problem-Solving/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/nigamabhay671/LeetCode-Problem-Solving/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/nigamabhay671/LeetCode-Problem-Solving/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/nigamabhay671/LeetCode-Problem-Solving/tree/master/0257-binary-tree-paths) |
 | [0572-subtree-of-another-tree](https://github.com/nigamabhay671/LeetCode-Problem-Solving/tree/master/0572-subtree-of-another-tree) |
 | [1035-cousins-in-binary-tree](https://github.com/nigamabhay671/LeetCode-Problem-Solving/tree/master/1035-cousins-in-binary-tree) |
 | [1243-sum-of-nodes-with-even-valued-grandparent](https://github.com/nigamabhay671/LeetCode-Problem-Solving/tree/master/1243-sum-of-nodes-with-even-valued-grandparent) |
@@ -23,6 +24,7 @@
 | [0098-validate-binary-search-tree](https://github.com/nigamabhay671/LeetCode-Problem-Solving/tree/master/0098-validate-binary-search-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/nigamabhay671/LeetCode-Problem-Solving/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/nigamabhay671/LeetCode-Problem-Solving/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/nigamabhay671/LeetCode-Problem-Solving/tree/master/0257-binary-tree-paths) |
 | [0572-subtree-of-another-tree](https://github.com/nigamabhay671/LeetCode-Problem-Solving/tree/master/0572-subtree-of-another-tree) |
 | [1035-cousins-in-binary-tree](https://github.com/nigamabhay671/LeetCode-Problem-Solving/tree/master/1035-cousins-in-binary-tree) |
 | [1243-sum-of-nodes-with-even-valued-grandparent](https://github.com/nigamabhay671/LeetCode-Problem-Solving/tree/master/1243-sum-of-nodes-with-even-valued-grandparent) |
@@ -42,6 +44,7 @@
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/nigamabhay671/LeetCode-Problem-Solving/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/nigamabhay671/LeetCode-Problem-Solving/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/nigamabhay671/LeetCode-Problem-Solving/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/nigamabhay671/LeetCode-Problem-Solving/tree/master/0257-binary-tree-paths) |
 | [0572-subtree-of-another-tree](https://github.com/nigamabhay671/LeetCode-Problem-Solving/tree/master/0572-subtree-of-another-tree) |
 | [1035-cousins-in-binary-tree](https://github.com/nigamabhay671/LeetCode-Problem-Solving/tree/master/1035-cousins-in-binary-tree) |
 | [1243-sum-of-nodes-with-even-valued-grandparent](https://github.com/nigamabhay671/LeetCode-Problem-Solving/tree/master/1243-sum-of-nodes-with-even-valued-grandparent) |
@@ -77,6 +80,7 @@
 ## String Matching
 |  |
 | ------- |
+| [0257-binary-tree-paths](https://github.com/nigamabhay671/LeetCode-Problem-Solving/tree/master/0257-binary-tree-paths) |
 | [0572-subtree-of-another-tree](https://github.com/nigamabhay671/LeetCode-Problem-Solving/tree/master/0572-subtree-of-another-tree) |
 ## Hash Function
 |  |
@@ -90,4 +94,8 @@
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/nigamabhay671/LeetCode-Problem-Solving/tree/master/0098-validate-binary-search-tree) |
+## Backtracking
+|  |
+| ------- |
+| [0257-binary-tree-paths](https://github.com/nigamabhay671/LeetCode-Problem-Solving/tree/master/0257-binary-tree-paths) |
 <!---LeetCode Topics End-->

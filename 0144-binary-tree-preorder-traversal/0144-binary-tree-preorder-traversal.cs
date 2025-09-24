@@ -14,18 +14,23 @@
 public class Solution {
     public IList<int> PreorderTraversal(TreeNode root) {
           var result=new List<int>();
-     Preorder(root,result);
-      
-        return result;
-    }
+           if(root==null){        return result;      }
 
-    public void Preorder(TreeNode root,List<int> result){
-        if(root==null){
-            return;
+            Stack<TreeNode> myStack = new Stack<TreeNode>();
+         myStack.Push(root);
+        while(myStack.Count>0)
+        {
+           TreeNode no= myStack.Pop();
+            result.Add(no.val);
+            if(no.right!=null)
+            {
+                 myStack.Push(no.right);
+            }
+             if(no.left!=null)
+             {
+                 myStack.Push(no.left);
+            }
         }
-
-        result.Add(root.val);
-        Preorder(root.left,result);
-        Preorder(root.right,result);
+        return result;
     }
 }

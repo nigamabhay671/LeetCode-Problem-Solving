@@ -12,6 +12,7 @@
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/nigamabhay671/LeetCode-Problem-Solving/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/nigamabhay671/LeetCode-Problem-Solving/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/nigamabhay671/LeetCode-Problem-Solving/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/nigamabhay671/LeetCode-Problem-Solving/tree/master/0145-binary-tree-postorder-traversal) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/nigamabhay671/LeetCode-Problem-Solving/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/nigamabhay671/LeetCode-Problem-Solving/tree/master/0257-binary-tree-paths) |
 | [0572-subtree-of-another-tree](https://github.com/nigamabhay671/LeetCode-Problem-Solving/tree/master/0572-subtree-of-another-tree) |
@@ -25,6 +26,7 @@
 | [0098-validate-binary-search-tree](https://github.com/nigamabhay671/LeetCode-Problem-Solving/tree/master/0098-validate-binary-search-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/nigamabhay671/LeetCode-Problem-Solving/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/nigamabhay671/LeetCode-Problem-Solving/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/nigamabhay671/LeetCode-Problem-Solving/tree/master/0145-binary-tree-postorder-traversal) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/nigamabhay671/LeetCode-Problem-Solving/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/nigamabhay671/LeetCode-Problem-Solving/tree/master/0257-binary-tree-paths) |
 | [0572-subtree-of-another-tree](https://github.com/nigamabhay671/LeetCode-Problem-Solving/tree/master/0572-subtree-of-another-tree) |
@@ -46,6 +48,7 @@
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/nigamabhay671/LeetCode-Problem-Solving/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/nigamabhay671/LeetCode-Problem-Solving/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/nigamabhay671/LeetCode-Problem-Solving/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/nigamabhay671/LeetCode-Problem-Solving/tree/master/0145-binary-tree-postorder-traversal) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/nigamabhay671/LeetCode-Problem-Solving/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/nigamabhay671/LeetCode-Problem-Solving/tree/master/0257-binary-tree-paths) |
 | [0572-subtree-of-another-tree](https://github.com/nigamabhay671/LeetCode-Problem-Solving/tree/master/0572-subtree-of-another-tree) |
@@ -94,6 +97,7 @@
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/nigamabhay671/LeetCode-Problem-Solving/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/nigamabhay671/LeetCode-Problem-Solving/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/nigamabhay671/LeetCode-Problem-Solving/tree/master/0145-binary-tree-postorder-traversal) |
 ## Binary Search Tree
 |  |
 | ------- |

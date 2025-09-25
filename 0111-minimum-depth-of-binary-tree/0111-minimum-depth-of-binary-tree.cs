@@ -25,6 +25,7 @@ public class Solution {
             
             for(int i =0;i<size;i++){
                 TreeNode node=q.Dequeue();
+                
                 if (node.left == null && node.right == null) {
                     return count;
                 }

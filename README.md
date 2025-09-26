@@ -18,6 +18,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/nigamabhay671/LeetCode-Problem-Solving/tree/master/0145-binary-tree-postorder-traversal) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/nigamabhay671/LeetCode-Problem-Solving/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/nigamabhay671/LeetCode-Problem-Solving/tree/master/0257-binary-tree-paths) |
+| [0543-diameter-of-binary-tree](https://github.com/nigamabhay671/LeetCode-Problem-Solving/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/nigamabhay671/LeetCode-Problem-Solving/tree/master/0572-subtree-of-another-tree) |
 | [1035-cousins-in-binary-tree](https://github.com/nigamabhay671/LeetCode-Problem-Solving/tree/master/1035-cousins-in-binary-tree) |
 | [1243-sum-of-nodes-with-even-valued-grandparent](https://github.com/nigamabhay671/LeetCode-Problem-Solving/tree/master/1243-sum-of-nodes-with-even-valued-grandparent) |
@@ -35,6 +36,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/nigamabhay671/LeetCode-Problem-Solving/tree/master/0145-binary-tree-postorder-traversal) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/nigamabhay671/LeetCode-Problem-Solving/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/nigamabhay671/LeetCode-Problem-Solving/tree/master/0257-binary-tree-paths) |
+| [0543-diameter-of-binary-tree](https://github.com/nigamabhay671/LeetCode-Problem-Solving/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/nigamabhay671/LeetCode-Problem-Solving/tree/master/0572-subtree-of-another-tree) |
 | [1035-cousins-in-binary-tree](https://github.com/nigamabhay671/LeetCode-Problem-Solving/tree/master/1035-cousins-in-binary-tree) |
 | [1243-sum-of-nodes-with-even-valued-grandparent](https://github.com/nigamabhay671/LeetCode-Problem-Solving/tree/master/1243-sum-of-nodes-with-even-valued-grandparent) |
@@ -63,6 +65,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/nigamabhay671/LeetCode-Problem-Solving/tree/master/0145-binary-tree-postorder-traversal) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/nigamabhay671/LeetCode-Problem-Solving/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/nigamabhay671/LeetCode-Problem-Solving/tree/master/0257-binary-tree-paths) |
+| [0543-diameter-of-binary-tree](https://github.com/nigamabhay671/LeetCode-Problem-Solving/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/nigamabhay671/LeetCode-Problem-Solving/tree/master/0572-subtree-of-another-tree) |
 | [1035-cousins-in-binary-tree](https://github.com/nigamabhay671/LeetCode-Problem-Solving/tree/master/1035-cousins-in-binary-tree) |
 | [1243-sum-of-nodes-with-even-valued-grandparent](https://github.com/nigamabhay671/LeetCode-Problem-Solving/tree/master/1243-sum-of-nodes-with-even-valued-grandparent) |

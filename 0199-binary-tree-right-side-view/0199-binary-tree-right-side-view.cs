@@ -26,9 +26,12 @@ public class Solution {
             int size=q.Count;
            TreeNode rightMost=null;
            
-            for(int i=0;i<size;i++)
+            for(int i=1;i<=size;i++)
             {
-                var tre=q.Dequeue();
+                TreeNode tre=q.Dequeue();
+                if(i==size){
+                    res.Add(tre.val);
+                }
                 rightMost=tre;
                
 
@@ -36,8 +39,8 @@ public class Solution {
                 if(tre.right!=null){  q.Enqueue(tre.right);}              
                 
             }
-              if (rightMost != null)
-                res.Add(rightMost.val);
+            //   if (rightMost != null)
+            //     res.Add(rightMost.val);
         }
         return res;
     }

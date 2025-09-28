@@ -12,36 +12,24 @@
  * }
  */
 public class Solution {
+    int maxlevel=0;
     public IList<int> RightSideView(TreeNode root) {
         var res=new List<int>();
-        if(root==null)
-        {
-            return res;
-        }
-        Queue<TreeNode> q=new Queue<TreeNode>();
-        q.Enqueue(root);
-
-        while(q.Count>0)
-        {
-            int size=q.Count;
-           TreeNode rightMost=null;
-           
-            for(int i=1;i<=size;i++)
-            {
-                TreeNode tre=q.Dequeue();
-                if(i==size){
-                    res.Add(tre.val);
-                }
-                rightMost=tre;
-               
-
-                if(tre.left!=null) { q.Enqueue(tre.left);  }
-                if(tre.right!=null){  q.Enqueue(tre.right);}              
-                
-            }
-            //   if (rightMost != null)
-            //     res.Add(rightMost.val);
-        }
+        DFS(root,1,res);
         return res;
+    }
+
+    public void DFS(TreeNode root,int level,List<int> res){
+        if(root==null){
+            return;
+        }
+        if(level>maxlevel)
+        {
+            res.Add(root.val);
+            maxlevel=level;
+        }
+
+       DFS(root.right,level+1,res);
+       DFS(root.left,level+1,res);
     }
 }

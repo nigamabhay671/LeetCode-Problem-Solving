@@ -9,40 +9,20 @@
  */
 public class Solution {
     public TreeNode LowestCommonAncestor(TreeNode root, TreeNode p, TreeNode q) {
-          List<TreeNode> path1 = new List<TreeNode>();
-        List<TreeNode> path2 = new List<TreeNode>();
-
-        if (!checkpath(root, path1, p) || !checkpath(root, path2, q))
-            return null;   // If either p or q not found
-
-        int i = path1.Count - 1;
-        int j = path2.Count - 1;
-
-        while (i >= 0 && j >= 0 && path1[i] == path2[j]) {
-            i--;
-            j--;
+        if(root==null || p==root || q==root)
+        {
+            return root;
         }
+    TreeNode left=LowestCommonAncestor(root.left,p,q);
+    TreeNode right=LowestCommonAncestor(root.right,p,q);
 
-        return path1[i + 1];  // Last common node
+if(left!=null && right!=null){
+    return root;
+}
+return left != null ? left : right;
+
 
     }
 
-   public bool checkpath(TreeNode root, List<TreeNode> path, TreeNode target) {
-        if (root == null)
-            return false;
-
-        if (root == target) {
-            path.Add(root);
-            return true;
-        }
-
-        if (checkpath(root.left, path, target) || checkpath(root.right, path, target)) {
-            path.Add(root);
-            return true;
-        }
-
-        return false;
-    }
-
-
+  
 }

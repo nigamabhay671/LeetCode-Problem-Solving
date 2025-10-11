@@ -16,29 +16,22 @@ public class Solution {
     public int MaxPathSum(TreeNode root) {
         DFS(root);
         return maxSum;
-        // if(root==null){
-        //     return 0;
-        // }
-
-        // int left=MaxPathSum(root.left);
-        // int right=MaxPathSum(root.right);       
-
-        // maxResult = Math.Max(maxResult,(root.val+left+right));
-
-        // return maxResult;
     }
 
     private int DFS(TreeNode node) {
-        if (node == null) return 0;
+         if (node == null) return 0;
 
-        // Max sum from left and right, ignore negative sums
+        // Compute max path sum from left and right subtrees (ignore negatives)
         int left = Math.Max(DFS(node.left), 0);
         int right = Math.Max(DFS(node.right), 0);
 
-        // Update global max if current path (node + left + right) is higher
-        maxSum = Math.Max(maxSum, node.val + left + right);
+        // Calculate the maximum path passing through this node
+        int currentPathSum = node.val + left + right;
 
-        // Return max path sum going down (node + one child)
+        // Update the global maximum path sum
+        maxSum = Math.Max(maxSum, currentPathSum);
+
+        // Return max sum from this node down to one child
         return node.val + Math.Max(left, right);
     }
 }
